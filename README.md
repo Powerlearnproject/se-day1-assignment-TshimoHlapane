@@ -12,7 +12,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 In the late 1960s Structured Programming was introduced, it wqas created to improve the reliability and clarity of programs. Program flow was restricted to three main structures. This simplification of programming in turn made programs that are primarily independent from each other. Making systems easier to read and debug.
 
-In the late 1970s The Waterfall model was introduced planning, designing and testing of software engineering. At its core it is a sequential model that requires engineering to follow procedures step by step.
+In the late 1970s The Waterfall model introduced planning, designing and testing of software engineering. At its core it is a sequential model that requires engineering to follow procedures step by step.
 
 The 1980s ushered in Object-Oriented Programming where each data structure is organised defined with its own attributes and procedures to make code easier to use, reuse and maintain.
 
